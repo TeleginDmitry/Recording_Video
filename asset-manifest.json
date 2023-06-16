@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Recording_Video/static/css/main.eb221cf3.css",
+    "main.js": "/Recording_Video/static/js/main.3f404e9c.js",
+    "index.html": "/Recording_Video/index.html",
+    "main.eb221cf3.css.map": "/Recording_Video/static/css/main.eb221cf3.css.map",
+    "main.3f404e9c.js.map": "/Recording_Video/static/js/main.3f404e9c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb221cf3.css",
+    "static/js/main.3f404e9c.js"
+  ]
+}
