@@ -1,15 +1,18 @@
 {
   "files": {
-    "main.css": "/Recording_Video/static/css/main.b73728ed.css",
-    "main.js": "/Recording_Video/static/js/main.9218a51b.js",
+    "main.css": "/Recording_Video/static/css/main.49295800.css",
+    "main.js": "/Recording_Video/static/js/main.4a3ba090.js",
     "static/media/Subtract.svg": "/Recording_Video/static/media/Subtract.c406f99b6be1ea486e3a9bd83d936d45.svg",
     "static/media/images.svg": "/Recording_Video/static/media/images.705926d5a1e8e7a22bc9cfeca1655404.svg",
     "index.html": "/Recording_Video/index.html",
-    "main.b73728ed.css.map": "/Recording_Video/static/css/main.b73728ed.css.map",
-    "main.9218a51b.js.map": "/Recording_Video/static/js/main.9218a51b.js.map"
+    "static/media/download.svg": "/Recording_Video/static/media/download.81ff29726cfb3cb9dc383c0fe9a8e803.svg",
+    "static/media/close.svg": "/Recording_Video/static/media/close.731d45f99d0134669a5e46d1c4e24a2b.svg",
+    "static/media/redactor.svg": "/Recording_Video/static/media/redactor.b1e0038defb186e727258658c02820ed.svg",
+    "main.49295800.css.map": "/Recording_Video/static/css/main.49295800.css.map",
+    "main.4a3ba090.js.map": "/Recording_Video/static/js/main.4a3ba090.js.map"
   },
   "entrypoints": [
-    "static/css/main.b73728ed.css",
-    "static/js/main.9218a51b.js"
+    "static/css/main.49295800.css",
+    "static/js/main.4a3ba090.js"
   ]
 }
