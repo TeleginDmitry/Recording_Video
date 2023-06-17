@@ -1,11 +1,11 @@
 import React from 'react'
-import VideoRecorder from './videoRecorder/VideoRecorder'
 import styles from './App.module.scss'
+import MediaRecorder from './mediaRecorder/MediaRecorder'
 
 const App = () => {
 	return (
 		<div className={styles.wrapper}>
-			<VideoRecorder></VideoRecorder>
+			<MediaRecorder></MediaRecorder>
 		</div>
 	)
 }

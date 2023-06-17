@@ -1,0 +1,26 @@
+.wrapper {
+	position: relative;
+	height: 100%;
+
+	.actions {
+		position: absolute;
+		top: 15px;
+		left: 0;
+		right: 0;
+    z-index: 1;
+	}
+
+	.media {
+		height: 100%;
+	}
+
+	.buttons {
+		position: absolute;
+		left: 0;
+		right: 0;
+		bottom: 15px;
+		padding: 0 10px;
+		display: flex;
+		justify-content: center;
+	}
+}

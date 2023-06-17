@@ -1,0 +1,26 @@
+.wrapper {
+	position: relative;
+	height: 100%;
+
+	.actions {
+		position: absolute;
+		bottom: 15px;
+		left: 0;
+		right: 0;
+		padding: 0 10px;
+		display: flex;
+		justify-content: center;
+	}
+
+	.video {
+		width: 100%;
+		height: 100%;
+		object-fit: contain;
+		object-position: center;
+		transform: scaleX(-1);
+
+		&__reversed {
+			transform: scaleX(1);
+		}
+	}
+}

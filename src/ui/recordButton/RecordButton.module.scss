@@ -1,0 +1,19 @@
+.button {
+	position: relative;
+	width: 60px;
+	height: 60px;
+	border-radius: 50%;
+	background-color: #ffffff;
+	transition: all 0.3s;
+	border: 3px solid #ff485c;
+	padding: 3px;
+
+	&__active {
+		background: linear-gradient(
+			125.88deg,
+			#ff6644 -2.1%,
+			#ff485c 100.96%,
+			#ff1a6c 127.3%
+		);
+	}
+}
